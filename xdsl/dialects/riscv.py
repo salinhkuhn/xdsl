@@ -325,7 +325,7 @@ SImm12Attr = IntegerAttr[Annotated[IntegerType, si12]]
 SImm20Attr = IntegerAttr[Annotated[IntegerType, si20]]
 Imm12Attr = IntegerAttr[Annotated[IntegerType, i12]]
 Imm20Attr = IntegerAttr[Annotated[IntegerType, i20]]
-Imm32Attr = IntegerAttr[Annotated[IntegerType, i32]]
+Imm32Attr = IntegerAttr[Annotated[IntegerType, i20]]
 
 
 @irdl_attr_definition
